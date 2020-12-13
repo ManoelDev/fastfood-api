@@ -12,6 +12,7 @@
 - [x] Lint Staged
 - [x] Husky
 - [x] Express
+- [x] Jest
 
 > Informações
 
