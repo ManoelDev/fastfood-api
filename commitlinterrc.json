@@ -23,7 +23,7 @@
         "No desenvolvimento de aplicativos, um escopo é uma página, módulo ou componente. "
     ],
     "invalidScopeDescriptions": [
-        "`scope`É opcional, mas não pode estar vazio se houver parênteses."
+        "`scope` É opcional, mas não pode estar vazio se houver parênteses."
     ],
     "subjectDescriptions": [
         "Uma breve descrição das mudanças em uma linha."
